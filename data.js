@@ -136,6 +136,12 @@ export const data=[
         "siteURL":"https://swagger.io",
         "siteDesc":"Simplify API development for users, teams, and enterprises with the Swagger open source and professional toolset",
         "category":"Development"
-    },
+    }
+    {
+        "siteName":"Sketch",
+        "siteURL":"https://www.sketch.com/",
+        "siteDesc":" Sketch gives you all the tools you need for a truly collaborative design process.",
+        "category":"Design"
+    }
     
 ]
